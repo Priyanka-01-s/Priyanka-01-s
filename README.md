@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey! ![image](https://user-images.githubusercontent.com/78321696/137984701-64b9d703-7ed2-47a1-ba00-b85def116670.png), I'm Priyanka.
+
 
 <!--
 **Priyanka-01-s/Priyanka-01-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
