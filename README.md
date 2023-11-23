@@ -2,6 +2,6 @@
 
 <img src ='https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif'/>
 
-- 🔭 I’m currently working on Web development projects
-- 🌱 I’m currently learning javascript, Data structures and algo
+- 🔭 I’m currently working on Web development and ML 
+  
 - 📫 How to reach me: https://www.linkedin.com/in/priyanka-sengupta-b085291b7/
